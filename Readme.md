@@ -1,6 +1,6 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
-* Студент: [Ольга Вадясова](https://up.htmlacademy.ru/javascript/17/user/46068).
+* Студент: [Дмитрий Зырянов](https://up.htmlacademy.ru/javascript/17/user/46068).
 * Наставник: `Неизвестно`.
 
 ---
